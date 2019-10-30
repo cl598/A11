@@ -13,6 +13,10 @@ body {
 	background-color: #fffded;
 }
 
+.backbackground{
+	background-color: white;
+}
+
 /* the styles for the header */
 
 header img {
