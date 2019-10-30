@@ -10,7 +10,7 @@ body {
 	width: 600px;
 	margin: 0 auto 0 auto;
 	border: 3px solid #931420;
-	background-color: #fffded;
+	
 }
 
 /* the styles for the header */
@@ -47,6 +47,7 @@ main {
 	clear: left;
 	padding-left: 30px;
 	padding-right: 30px;
+	background-color: #fffded;
 }
 
 main h1{
