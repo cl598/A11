@@ -27,13 +27,13 @@ header img {
 header h2{
 	font-size: 170%;
 	color: #800000;
-	padding: 0 40px;
+	padding: 0 0 0 100px;
 }
 
 header h3{
 	font-size: 130%;
 	font-style: italic;
-	padding: 0 40px;
+	padding: 0 0 0 100px;
 }
 
 body header{
